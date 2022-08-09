@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Memphis Depay",
+    "avatar": "https://icdn.football-espana.net/wp-content/uploads/2022/07/Memphis-Depay-2.jpeg",
+    "email": "deanlych@gmail.com",
+    "salary": "85000",
+    "date": "2022-06-08",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Karim Benzema",
+    "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+    "email": "benzema@gmail.com",
+    "salary": "92000",
+    "date": "2022-09-03",
+    "status": "inactive"
+  }
+]
