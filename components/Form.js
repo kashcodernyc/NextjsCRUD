@@ -8,7 +8,7 @@ const Form = () => {
 
     return(
         <div className="container mx-auto py-5">
-            {flag  ? <AddUserForm/> : <UpdateUserForm/>}
+            {flag  ? <UpdateUserForm/> : <AddUserForm/>}
         </div>
     
     )
